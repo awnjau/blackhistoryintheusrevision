@@ -40,6 +40,7 @@ h1{
   font-size:150%;
   font-family:garamond;
   align-content: center;
+  flex-wrap: wrap;
   width:75%;
   margin: auto;
   background-color: sandybrown;

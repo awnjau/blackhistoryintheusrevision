@@ -40,7 +40,14 @@ h1{
   font-size:150%;
   font-family:garamond;
   align-content: center;
-  flex-wrap: wrap;
+  width:75%;
+  margin: auto;
+  background-color: sandybrown;
+}
+.flex-container2 > div {
+  font-size:150%;
+  font-family:garamond;
+  align-content: center;
   width:75%;
   margin: auto;
   background-color: sandybrown;

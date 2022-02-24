@@ -5,6 +5,10 @@ body {
 h1{
   text-align:center;
 }
+img{
+
+  width:200px;height:auto;
+}
 
 .topnav {
   overflow: hidden;
@@ -44,6 +48,12 @@ h1{
   margin: auto;
   background-color: sandybrown;
 }
+.div-5{
+  text-align:center;
+  background-color:white;
+  font-size:200%;
+  font-family:garamond;
+}
 
 .flex-container2 > div {
   font-size:150%;
@@ -55,4 +65,49 @@ h1{
   border-width:5px;
   border-style: double;
   border-radius: 5px;
+}
+.div-12{
+  text-align:center;
+  background-color:white;
+  font-size:200%;
+  font-family:garamond;
+}
+  .div-13{
+    font-size:150%;
+    font-family:garamond;
+    text-align:center;
+    width:100%;
+}
+.flex-container3 > div {
+  display: flex;
+  height: 600px;
+  font-size:200%;
+  font-family:garamond;
+  align-items: center;
+  justify-content:center;
+}
+.flex-container4 > div {
+  display: flex;
+  height: 600px;
+  align-content: space-around;
+  font-size:200%;
+  font-family:garamond;
+  align-items: center;
+  justify-content:center;
+}
+.flex-container5 > div {
+  display: flex;
+  height: 600px;
+  font-size:200%;
+  font-family:garamond;
+  align-items: center;
+  justify-content:center;
+}
+.flex-container6 > div {
+  display: flex;
+  height: 600px;
+  font-size:200%;
+  font-family:garamond;
+  align-items: center;
+  justify-content:center;
 }
